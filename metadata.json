@@ -1,0 +1,6 @@
+{
+  "name": "LongTextScroller example",
+  "identifier": "com.metrological.app.longtextscroller-example",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
