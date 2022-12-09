@@ -2,7 +2,7 @@
   "name": "com.metrological.app.longtextscroller-example",
   "description": "LongTextScroller example",
   "dependencies": {
-    "@lightningjs/sdk": "^3.2.1"
+    "@lightningjs/sdk": "^5.2.0"
   },
   "lint-staged": {
     "*.js": [
